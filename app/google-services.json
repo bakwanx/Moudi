@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394726900463",
+    "firebase_url": "https://machine-learning-a22de.firebaseio.com",
+    "project_id": "machine-learning-a22de",
+    "storage_bucket": "machine-learning-a22de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394726900463:android:e8d90f1458ad1b8379111a",
+        "android_client_info": {
+          "package_name": "com.example.moudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394726900463-lifuiml0skkoc1ng41qb0ahic33ilirb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJteYZgWPOVgClituGDn1hFLGE7ckrDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394726900463-lifuiml0skkoc1ng41qb0ahic33ilirb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
